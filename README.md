@@ -1,16 +1,16 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&height=20&lines=Loading+.+.+.)](https://git.io/typing-svg)   
+Hi, I'm Vusal. You might recognize me as a student of Peter the Great St.Petersburg Polytechnic University.
 
-<!--
-**vusketta/vusketta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| Kotlin    |
+|     3| Clojure   |
+|     4| Javascript|
+|     5| C++       |
+|     6| Python    |
 
-Here are some ideas to get you started:
+---
+> Strive for a better future and never forget your past.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+— me
