@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&height=20&lines=Loading+.+.+.)](https://git.io/typing-svg)   
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=b3e2f1&vCenter=true&height=20&lines=Loading+.+.+.)](https://git.io/typing-svg)   
 Hi, I'm Vusal.  
 You might recognize me as a student of [Peter the Great St.Petersburg Polytechnic University](https://english.spbstu.ru/).
 
