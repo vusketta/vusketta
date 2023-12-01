@@ -10,6 +10,8 @@ You might recognize me as a student of [Peter the Great St.Petersburg Polytechni
 |     5| C++       | :fu:       |
 |     6| Python    |:wheelchair:|
 
+As you can see, I'mma silly guy, but EDSAC is a real shit.
+
 ---
 > Strive for a better future and never forget your past.
 
