@@ -12,6 +12,8 @@ You might recognize me as a student of [Peter the Great St.Petersburg Polytechni
 
 As you can see, I'mma silly guy, but EDSAC is a real shit.
 
+![cillian murphy](https://github.com/user-attachments/assets/16a62fdb-6bc5-469e-a454-7f2ff48e62ef)
+
 ---
 > Strive for a better future and never forget your past.
 
