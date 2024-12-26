@@ -1,17 +1,3 @@
-Hi, I'm Vusal.  
-You might recognize me as a student of [Peter the Great St.Petersburg Polytechnic University](https://english.spbstu.ru/).
-
-| Rank | Languages | Thinks     |
-|:----:|----------:|:----------:|
-|     1| Java      | :heart:    |
-|     2| Kotlin    | :question: |
-|     3| Clojure   | :ok_hand:  |
-|     4| Javascript| :fist:     |
-|     5| C++       | :fu:       |
-|     6| Python    |:wheelchair:|
-
-As you can see, I'mma silly guy, but EDSAC is a real shit.
-
 ![cillian murphy](https://github.com/user-attachments/assets/16a62fdb-6bc5-469e-a454-7f2ff48e62ef)
 
 ---
